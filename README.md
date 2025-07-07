@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **Android apps using Jetpack Compose**
 - 🌱 Learning **Clean Architecture**, **Coroutines**, **StateFlow**
 - 👨‍💻 Check out my repositories on [GitHub](https://github.com/rishu8090)
-- 💬 Ask me about **Kotlin**, **Compose**, and Android Architecture
+- 💬 Ask me about **Kotlin**, **Compose**, **Java** and Android Architecture
 - 📫 Reach me at: chrishu8090@gmail.com
 
     </td>
