@@ -9,12 +9,36 @@
 
 ### 🧑‍💻 About Me
 
+<table>
+  <tr>
+    <td width="60%">
+      
+### 🧑‍💻 About Me
+
 - 🔭 I’m currently working on **Android apps using Jetpack Compose**
 - 🌱 Learning **Clean Architecture**, **Coroutines**, **StateFlow**
 - 👨‍💻 Check out my repositories on [GitHub](https://github.com/rishu8090)
-- 💬 Ask me about **Kotlin**, **Compose**, **Java** and Android Architecture
-- 📫 Reach me at: chrishu8090@gmail.com`
-- 📝 I regularly post projects on my [GitHub Repositories](https://github.com/rishu8090?tab=repositories)
+- 💬 Ask me about **Kotlin**, **Compose**, and Android Architecture
+- 📫 Reach me at: chrishu8090@gmail.com
+
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+    </td>
+  </tr>
+</table>
+
+---
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:chrishu8090@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/rishu8090"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rishu8090/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</p>
 
 ---
 
@@ -25,6 +49,8 @@
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ---
 
@@ -46,18 +72,7 @@
   <img src="https://streak-stats.demolab.com/?user=rishu8090&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:chrishu8090@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/rishu8090"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rishu8090/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-</p>
-
----
 
 ![Profile views](https://komarev.com/ghpvc/?username=rishu8090&color=blueviolet&style=flat)
 
